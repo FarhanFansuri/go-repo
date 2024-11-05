@@ -1,4 +1,4 @@
-# Belajar Golang
+#  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang logo" /> Go Repo
 
 Selamat datang di repository ini! Di sini, saya mengumpulkan berbagai proyek dan latihan yang dilakukan selama belajar bahasa pemrograman Go (Golang). Tujuan dari repository ini adalah untuk memahami konsep dasar dan fitur-fitur lanjutan dalam Golang.
 
